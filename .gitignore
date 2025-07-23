@@ -74,3 +74,14 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 .DS_Store
+/MR_1/Library/PackageCache
+/MR_1/Library/ShaderCache
+/MR_1/Library/BurstCache
+/MR_1/Library/ScriptAssemblies
+/MR_1/Temp
+/MR_1/Library/Artifacts
+/MR_1/Library/APIUpdater
+/MR_1/Library/Bee/CachedNodeOutput
+/MR_1/Library/Bee/artifacts
+/MR_1/Library/APIUpdater
+/MR_1/Library
